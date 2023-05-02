@@ -1,0 +1,124 @@
+.footer-component {
+    background: #333333;
+    width: 1440px auto;
+    height: 400px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer-container {
+    margin-top: 50px;
+}
+
+.footer-container_about {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.footer-container_description {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.footer-container_features {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.footer-container_component {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #b8b4b4;
+}
+
+.footer-container_text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.footer-input {
+    width: 220px;
+    height: 35px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #FFFFFF;
+    color: #000000;
+}
+
+.footer-button {
+    height: 30px;
+    width: 100px;
+    background: #FFC700;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #000000;
+    padding-top: 10px;
+}
+
+.footer-container_text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.footer-container_content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-container_messengers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-container_components {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-description_company {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 40px;
+}
+
+hr {
+    background: #FFFFFF;
+}
+
+.footer-icon {
+    margin: 20px;
+}

@@ -1,0 +1,57 @@
+.whyus-container {
+    padding-bottom: 120px;
+    padding-top: 50px;
+}
+
+.whyus {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 100px;
+}
+
+.whyus-description {
+    padding: 30px 50px 20px 50px;
+}
+
+.whyus-description_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    color: black;
+}
+
+.whyus-description_text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    color: #fa8729;
+}
+
+.whyus-description_podtext {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #0808089f;
+}
+
+.whyus-description_punct  {
+    display: flex;
+    flex-direction: column;
+}
+
+.whyus-description_punct {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #df5616ec;
+}
+
+.whyus-logo {
+    width: 600px;
+    height: 600px;
+}

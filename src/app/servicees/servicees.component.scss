@@ -1,0 +1,72 @@
+.services-container {
+    background: #dbd9d9;
+}
+
+.services {
+    padding-bottom: 120px;
+}
+
+.services-container_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    color: #fa8729;
+    text-align: center;
+    padding-top: 100px ;
+}
+
+.services-container_text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #0808089f;
+    text-align: center;
+    line-height: 30px;
+    padding-bottom: 60px;
+}
+
+.services-offers {
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    padding-bottom: 20px;
+}
+
+.services-offer {
+    width: 340px;
+    height: 260px;
+    background: white;
+    border: 1px solid snow;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.services-offer_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    color: #000;
+    padding-left: 25px;
+}
+
+.services-offer_text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #0808089f;
+    padding-left: 25px;
+}
+
+.services-offer:hover {
+    border: 2px solid orange;
+}
+
+.services-offer_icon {
+    padding-left: 25px;
+    padding-top: 15px;
+}

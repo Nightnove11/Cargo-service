@@ -1,0 +1,8 @@
+<div class="blog-container" *ngFor= "let blog of blog" >
+    <div class="blog">
+        <h4 class="blog-title">{{blog.name}}</h4>
+        <p class="blog-date">{{blog.date}}</p>
+        <img class="blog-image" src="{{blog.img}}">
+        <p class="blog-description">{{blog.description}}</p>
+    </div>
+</div>

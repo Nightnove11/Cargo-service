@@ -1,0 +1,223 @@
+.home-logo {
+    width: 1840px;
+    height: 915px;
+}
+
+.home-description {
+    position: absolute;
+    top: 350px;
+    left: 300px;
+}
+
+.home-description_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: #000;
+}
+
+.home-description_text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000;
+}
+
+.home-description_number-input {
+    width: 300px;
+    height: 53px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #090909;
+    padding-left: 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+.home-description_number-button {
+    width: 100px;
+    height: 70px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #FFFFFF;
+    background: rgb(231, 126, 5);
+    padding-top: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.home-delivery {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.home-delivery_container-img {
+    width: 370px;
+    height: 220px;
+    position: absolute;
+    top: 980px;
+  
+}
+
+.home-delivery_container-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #fa8729;
+    text-align: center;
+    margin-top: 140px;
+    margin-left: 35px;
+}
+
+.home-delivery_container-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #0808089f;
+    text-align: center;
+    margin-left: 35px;
+}
+
+.pricing-container {
+    background:#dbd9d9;
+    padding-bottom: 100px;
+}
+
+.pricing-container_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    color: #fa8729;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.pricing-container_text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #0808089f;
+    text-align: center;
+}
+
+.pricing-container_subscribes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pricing-container_subscribes-box {
+    width: 240px;
+    height: 460px;
+    background: #FFFFFF;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 40px;
+    padding: 20px;
+}
+
+.pricing-container_subscribes-level {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+.pricing-container_subscribes-price {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    color: #fa8729;
+    text-align: center;
+}
+
+.pricing-container_subscribes-description {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #0808089f;
+    text-align: center;
+}
+
+.pricing-container_subscribes-button {
+    width: 200px;
+    height: 100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+    background: rgba(43, 63, 107, 0.795);
+    border-radius: 5px;
+    padding: 12px;
+    text-align: center;
+    margin-left: 70px;
+}
+
+.pricing-container_subscribes-button:hover {
+    background: #fa8729;
+    cursor: pointer;
+}
+
+.questions-container_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    color: #fa8729;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.questions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.questions-examples {
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+
+.questions-box_title {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.questions-box_title-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: black;
+    padding-left: 30px;
+  
+}
+
+.questions-box_title-description {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #0808089f;
+}
