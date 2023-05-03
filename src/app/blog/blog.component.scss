@@ -1,1 +1,37 @@
 
+.blog-container {
+display: flex;
+flex-direction: column;
+margin-top: 100px;
+}
+
+.blog-container_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    color: #fa8729;
+    text-align: center;
+    padding-top: 100px ;
+}
+
+.blog-title {
+    padding-left: 600px;
+}
+
+.blog-date {
+    margin-left: 500px;
+}
+
+.blog-image {
+   padding-left: 500px;
+}
+
+.blog-description {
+    max-width: 900px;
+    padding-left: 500px;
+}
+
+.news {
+    background: rgba(92, 92, 128, 0.384);
+}
